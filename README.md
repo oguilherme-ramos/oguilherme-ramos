@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/oguilherme-ramos">
+    <a href="https://www.linkedin.com/in/oguilhermeramos-data/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/oguilherme-ramos">
@@ -178,18 +178,6 @@ Power BI • DAX • Power Query
     <td>Fórmulas • Tabelas Dinâmicas • Análise • Dashboards</td>
   </tr>
 </table>
-
----
-
-<h2>📈 GitHub</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oguilherme-ramos&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguilherme-ramos&layout=compact&hide_border=true&theme=github_dark" height="170">
-
-</div>
 
 ---
 
